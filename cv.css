@@ -1,0 +1,36 @@
+h3
+{
+	color: blue;
+}
+h1 
+{ 
+	text-align: center;
+
+}
+.commentaire
+{
+	text-align: center;
+}
+body
+{
+	background: url("fond.png") fixed  ;
+}
+.photo
+{
+	float: right;
+	border: 5px black double;
+	box-shadow: 6px 6px 6px black;
+}
+ul,h3
+{
+	clear: right;
+}
+@font-face
+{
+	font-family: 'AlexBrush-Regular';
+	src :url('AlexBrush-Regular.ttf');
+}
+h3
+{
+	font-family: 'AlexBrush-Regular';
+}
